@@ -1975,3 +1975,1765 @@ mkdir downloads/865
 aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/865 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-865-kneelers-live-and-rebels-die/
 mkdir downloads/866
 aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/866 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-866-transcendence-finally/
+mkdir downloads/540
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/540 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-540-meeting-on-the-endless-battlefield/
+mkdir downloads/541
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/541 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-541-3-messages/
+mkdir downloads/542
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/542 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-542-infinity-styx/
+mkdir downloads/543
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/543 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-543-anchoring-the-dragon-and-phoenix-tombs/
+mkdir downloads/544
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/544 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-544-exquisite-fairy-mine/
+mkdir downloads/545
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/545 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-545-dog-life/
+mkdir downloads/546
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/546 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-546-poor-little-world/
+mkdir downloads/547
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/547 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-547-brother-help/
+mkdir downloads/548
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/548 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-548-phoenix-crown/
+mkdir downloads/549
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/549 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-549-real-heavy-weapon/
+mkdir downloads/550
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/550 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-550-crimson-cheeks/
+mkdir downloads/551
+mkdir downloads/540
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/540 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-540-meeting-on-the-endless-battlefield/
+mkdir downloads/541
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/541 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-541-3-messages/
+mkdir downloads/542
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/542 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-542-infinity-styx/
+mkdir downloads/543
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/543 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-543-anchoring-the-dragon-and-phoenix-tombs/
+mkdir downloads/544
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/544 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-544-exquisite-fairy-mine/
+mkdir downloads/545
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/545 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-545-dog-life/
+mkdir downloads/546
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/546 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-546-poor-little-world/
+mkdir downloads/547
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/547 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-547-brother-help/
+mkdir downloads/548
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/548 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-548-phoenix-crown/
+mkdir downloads/549
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/549 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-549-real-heavy-weapon/
+mkdir downloads/550
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/550 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-550-crimson-cheeks/
+mkdir downloads/551
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/551 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-551-cthulhu-pollution/
+mkdir downloads/552
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/552 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-552-end-of-reincarnation/
+mkdir downloads/553
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/553 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-553-terrifying-message-on-the-tombstone/
+mkdir downloads/554
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/554 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-554-the-origin-of-the-crest-of-the-times/
+mkdir downloads/555
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/555 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-555-forbidden-realm/
+mkdir downloads/556
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/556 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-556-suffering-is-good-medicine/
+mkdir downloads/557
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/557 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-557-1-big-mouth-was-eaten/
+mkdir downloads/558
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/558 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-558-have-you-lost-your-studies/
+mkdir downloads/559
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/559 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-559-reluctantly-join/
+mkdir downloads/560
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/560 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-560-leave-the-problem-to-fate/
+mkdir downloads/561
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/561 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-561-sacred-relic/
+mkdir downloads/562
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/562 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-562-big-new-year/
+mkdir downloads/563
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/563 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-563-order-of-the-yellow-emperor/
+mkdir downloads/564
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/564 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-564-the-real-body-is-cast-in-the-heaven-and-earth-oven/
+mkdir downloads/565
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/565 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-565-indescribable-incomprehensible/
+mkdir downloads/566
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/566 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-566-nirvana-rebirth/
+mkdir downloads/567
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/567 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-567-the-deep-meaning-behind-the-tianjiao-battle/
+mkdir downloads/568
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/568 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-568-refining-the-fake-into-the-real/
+mkdir downloads/569
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/569 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-569-bliss/
+mkdir downloads/570
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/570 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-570-women-s-world/
+mkdir downloads/571
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/571 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-571-justice/
+mkdir downloads/572
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/572 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-572-the-wicked-need-the-wicked/
+mkdir downloads/573
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/573 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-573-half-a-word/
+mkdir downloads/574
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/574 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-574-infinity-styx/
+mkdir downloads/575
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/575 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-575-top-match-nuwa/
+mkdir downloads/576
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/576 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-576-just-a-real-dragon/
+mkdir downloads/577
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/577 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-577-qianyuan-martial-arts-world/
+mkdir downloads/578
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/578 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-578-tianxin-plan/
+mkdir downloads/579
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/579 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-579-secret-riot/
+mkdir downloads/580
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/580 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-580-crow-cheats-death/
+mkdir downloads/581
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/581 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-581-eat-dinner/
+mkdir downloads/582
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/582 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-582-the-last-tranquility/
+mkdir downloads/583
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/583 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-583-pregnant-god-casting-demon/
+mkdir downloads/584
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/584 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-584-funeral-oration/
+mkdir downloads/585
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/585 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-585-missing-persons/
+mkdir downloads/586
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/586 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-586-tianjiao-battle/
+mkdir downloads/587
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/587 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-587-jagged-world-line/
+mkdir downloads/588
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/588 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-588-exiles/
+mkdir downloads/589
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/589 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-589-1-the-eyes-of-all-sentient-beings/
+mkdir downloads/590
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/590 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-590-this-hatred-lasts-forever/
+mkdir downloads/591
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/591 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-591-key-thing/
+mkdir downloads/592
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/592 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-592-hades/
+mkdir downloads/593
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/593 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-593-no-self/
+mkdir downloads/594
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/594 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-594-will-peep/
+mkdir downloads/595
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/595 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-595-mausoleum-of-saints/
+mkdir downloads/596
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/596 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-596-1-truncated-finger/
+mkdir downloads/597
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/597 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-597-traces-from-the-blue-star/
+mkdir downloads/598
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/598 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-598-who-is-behind-the-scenes/
+mkdir downloads/599
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/599 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-599-heavenly-white-jade/
+mkdir downloads/600
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/600 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-600-big-0-world-seeds/
+mkdir downloads/601
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/601 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-601-100-million-light-years-of-creation/
+mkdir downloads/602
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/602 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-602-crazy-stone/
+mkdir downloads/603
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/603 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-603-holding-the-demon-palace-with-one-hand/
+mkdir downloads/604
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/604 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-604-unparalleled/
+mkdir downloads/605
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/605 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-605-divine-origin-universe/
+mkdir downloads/606
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/606 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-606-1-good-show/
+mkdir downloads/607
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/607 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-607-the-mission-entrusted-by-the-times/
+mkdir downloads/608
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/608 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-608-you-are-so-vicious/
+mkdir downloads/609
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/609 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-609-disappearing-wing-shrine/
+mkdir downloads/610
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/610 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-610-exile-is-redemption/
+mkdir downloads/611
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/611 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-611-dark-liquid/
+mkdir downloads/612
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/612 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-612-heaven-and-man-5-decline/
+mkdir downloads/613
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/613 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-613-shouyuan-s-competition/
+mkdir downloads/614
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/614 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-614-the-first-evil-exploded/
+mkdir downloads/615
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/615 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-615-seniors-please-die/
+mkdir downloads/616
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/616 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-616-id-consciousness/
+mkdir downloads/617
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/617 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-617-cannot-be-erased/
+mkdir downloads/618
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/618 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-618-chaos-core/
+mkdir downloads/619
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/619 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-619-inspiration-to-the-sky/
+mkdir downloads/620
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/620 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-620-the-big-play-after-the-curtain-begins/
+mkdir downloads/621
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/621 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-621-first-heard-of-the-will-of-the-dao/
+mkdir downloads/622
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/622 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-622-the-world-returns-to-1/
+mkdir downloads/623
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/623 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-623-unexpected-gift/
+mkdir downloads/624
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/624 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-624-return-of-the-dead/
+mkdir downloads/625
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/625 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-625-battle-of-ideas/
+mkdir downloads/626
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/626 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-626-annoy-people/
+mkdir downloads/627
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/627 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-627-the-bright-flower-of-the-times/
+mkdir downloads/628
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/628 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-628-the-strong-stay-strong/
+mkdir downloads/629
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/629 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-629-domineering/
+mkdir downloads/630
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/630 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-630-fierce-from-the-sky/
+mkdir downloads/631
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/631 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-631-there-is-nothing-always/
+mkdir downloads/632
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/632 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-632-supernatural-realm/
+mkdir downloads/633
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/633 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-633-1-person-1-power-bank/
+mkdir downloads/634
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/634 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-634-normal-1-punch/
+mkdir downloads/635
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/635 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-635-sanctification-of-the-flesh/
+mkdir downloads/636
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/636 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-636-emperor-s-invincible-form/
+mkdir downloads/637
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/637 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-637-the-great-grind/
+mkdir downloads/638
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/638 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-638-kill-me/
+mkdir downloads/639
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/639 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-639-open-the-supreme-council-of-the-terran/
+mkdir downloads/640
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/640 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-640-the-meaning-of-the-book/
+mkdir downloads/641
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/641 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-641-the-road-has-no-end/
+mkdir downloads/642
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/642 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-642-infinite-thinking-personality/
+mkdir downloads/643
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/643 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-643-failed-heaven-and-earth-suppression/
+mkdir downloads/644
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/644 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-644-thieves-behind-the-shadows/
+mkdir downloads/645
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/645 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-645-wandering-world/
+mkdir downloads/646
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/646 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-646-entering-the-human-race/
+mkdir downloads/647
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/647 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-647-anchor-with-oath/
+mkdir downloads/648
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/648 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-648-no-time/
+mkdir downloads/649
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/649 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-649-weird-space/
+mkdir downloads/650
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/650 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-650-black-mist-crisis/
+mkdir downloads/651
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/651 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-651-he-didn-t-die/
+mkdir downloads/652
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/652 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-652-1-talisman-paper-town-evil-god/
+mkdir downloads/653
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/653 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-653-17-000-years/
+mkdir downloads/654
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/654 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-654-origin/
+mkdir downloads/655
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/655 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-655-grasp-the-long-river-of-time-and-space/
+mkdir downloads/656
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/656 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-656-sorry-i-m-a-spy/
+mkdir downloads/657
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/657 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-657-the-golden-robed-red-haired-monster/
+mkdir downloads/658
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/658 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-658-you-are-like-a-dog/
+mkdir downloads/659
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/659 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-659-terrible-crisis/
+mkdir downloads/660
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/660 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-660-all-grass-and-trees/
+mkdir downloads/661
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/661 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-661-insidious-offspring-anchor/
+mkdir downloads/662
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/662 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-662-all-calculations-succeeded/
+mkdir downloads/663
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/663 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-663-cthulhu-descends/
+mkdir downloads/664
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/664 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-664-fight-to-the-death/
+mkdir downloads/665
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/665 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-665-the-original-annihilation-cannon/
+mkdir downloads/666
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/666 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-666-still-pity-green-grass/
+mkdir downloads/667
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/667 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-667-respond-to-the-secret/
+mkdir downloads/668
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/668 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-668-2-brothers-were-arrested/
+mkdir downloads/669
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/669 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-669-after-i-bloom-0-flowers-kill/
+mkdir downloads/670
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/670 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-670-human-race-breaks-up/
+mkdir downloads/671
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/671 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-671-good-and-evil/
+mkdir downloads/672
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/672 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-672-life-and-death-balance/
+mkdir downloads/673
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/673 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-673-0d-world-projection/
+mkdir downloads/674
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/674 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-674-the-land-of-all-realms-returning-to-the-ruins/
+mkdir downloads/675
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/675 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-675-unknown-civilization/
+mkdir downloads/676
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/676 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-676-santa-loa/
+mkdir downloads/677
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/677 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-677-continuous-footprints/
+mkdir downloads/678
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/678 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-678-9-great-supreme/
+mkdir downloads/679
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/679 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-679-instantaneous-mystery/
+mkdir downloads/680
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/680 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-680-the-beginning-of-the-broken-wall/
+mkdir downloads/681
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/681 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-681-5-colors-gathered/
+mkdir downloads/682
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/682 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-682-break-the-wall/
+mkdir downloads/683
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/683 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-683-8-colors-forever-forbidden/
+mkdir downloads/684
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/684 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-684-infinite-god-demon-chaos-world/
+mkdir downloads/685
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/685 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-685-destiny-is-on-the-same-track/
+mkdir downloads/686
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/686 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-686-cause/
+mkdir downloads/687
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/687 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-687-the-world-of-evil-thoughts-1-corner/
+mkdir downloads/688
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/688 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-688-old-devil-sealed/
+mkdir downloads/689
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/689 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-689-avenue-of-reincarnation/
+mkdir downloads/690
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/690 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-690-6-reincarnation-relics/
+mkdir downloads/691
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/691 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-691-ancient-demons-destroy-all-life/
+mkdir downloads/692
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/692 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-692-destroy-this-world/
+mkdir downloads/693
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/693 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-693-reincarnation/
+mkdir downloads/694
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/694 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-694-my-world-will-replace-it/
+mkdir downloads/695
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/695 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-695-10-dead-and-alive/
+mkdir downloads/696
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/696 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-696-no-1-model-worker-road-endless/
+mkdir downloads/697
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/697 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-697-the-depths-of-the-monument/
+mkdir downloads/698
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/698 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-698-ring-of-time-paradox/
+mkdir downloads/699
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/699 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-699-never-ending/
+mkdir downloads/700
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/700 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-700-talent-awakening/
+mkdir downloads/701
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/701 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-701-unnamed-stele/
+mkdir downloads/702
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/702 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-702-infinite-multiverse/
+mkdir downloads/703
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/703 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-703-real-me-only-1/
+mkdir downloads/704
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/704 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-704-stun-with-one-hand/
+mkdir downloads/705
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/705 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-705-can-not-look-directly/
+mkdir downloads/706
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/706 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-706-time-and-space-administration/
+mkdir downloads/707
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/707 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-707-wake-up/
+mkdir downloads/708
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/708 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-708-obliteration-across-time-and-space/
+mkdir downloads/709
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/709 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-709-gather-the-crowd/
+mkdir downloads/710
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/710 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-710-repay-with-land/
+mkdir downloads/711
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/711 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-711-all-heavens-dao-yan/
+mkdir downloads/712
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/712 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-712-keep-promises/
+mkdir downloads/713
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/713 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-713-to-the-battlefield/
+mkdir downloads/714
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/714 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-714-howling-abyss/
+mkdir downloads/715
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/715 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-715-source-secret-god/
+mkdir downloads/716
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/716 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-716-leverage-from-the-past/
+mkdir downloads/717
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/717 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-717-10-breaths-kill-the-enemy/
+mkdir downloads/718
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/718 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-718-bloom-in-destruction/
+mkdir downloads/719
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/719 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-719-tomb-of-transcendence/
+mkdir downloads/720
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/720 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-720-understand-the-cause-and-effect/
+mkdir downloads/721
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/721 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-721-book-of-horrible-words/
+mkdir downloads/722
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/722 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-722-forge-of-the-heavens-explosion/
+mkdir downloads/723
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/723 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-723-really-can-t-eat/
+mkdir downloads/724
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/724 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-724-sword-of-justice/
+mkdir downloads/725
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/725 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-725-eternal-stupidity/
+mkdir downloads/726
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/726 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-726-grimace-mask/
+mkdir downloads/727
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/727 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-727-the-realm-of-nothingness/
+mkdir downloads/728
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/728 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-728-so-many-energy-crystals/
+mkdir downloads/729
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/729 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-729-no-martial-arts/
+mkdir downloads/730
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/730 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-730-chaos-gods-and-demons-9-yao/
+mkdir downloads/731
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/731 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-731-tampering-with-id-consciousness/
+mkdir downloads/732
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/732 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-732-undeclared-war/
+mkdir downloads/733
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/733 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-733-hard-to-find/
+mkdir downloads/734
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/734 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-734-tiangan-continent/
+mkdir downloads/735
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/735 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-735-great-collision-of-the-heavens/
+mkdir downloads/736
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/736 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-736-final-tree/
+mkdir downloads/737
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/737 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-737-infinite-personality-union/
+mkdir downloads/738
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/738 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-738-swallow-the-pain/
+mkdir downloads/739
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/739 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-739-reckless/
+mkdir downloads/740
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/740 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-740-real-me-invincible-8-desert-battle-body/
+mkdir downloads/741
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/741 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-741-suppression-with-one-hand/
+mkdir downloads/742
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/742 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-742-8-foot-yu-s-eye/
+mkdir downloads/743
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/743 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-743-n-one/
+mkdir downloads/744
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/744 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-744-7-love-6-desire-fruit/
+mkdir downloads/745
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/745 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-745-written-reality/
+mkdir downloads/746
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/746 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-746-my-fairy-dynasty/
+mkdir downloads/747
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/747 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-747-make-a-deal/
+mkdir downloads/748
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/748 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-748-source-originator/
+mkdir downloads/749
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/749 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-749-so-win-win/
+mkdir downloads/750
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/750 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-750-weeping-blood-blade/
+mkdir downloads/751
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/751 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-751-outside-the-sky/
+mkdir downloads/752
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/752 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-752-talking-about-stacking-boxes/
+mkdir downloads/753
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/753 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-753-army-of-corruption/
+mkdir downloads/61
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/61 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-61-hapiness/
+mkdir downloads/754
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/754 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-754-give-you-2-ways/
+mkdir downloads/755
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/755 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-755-3-golden-retrievers/
+mkdir downloads/756
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/756 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-756-the-heart-of-hongmeng-taixu-sword-realm/
+mkdir downloads/757
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/757 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-757-painting-world/
+mkdir downloads/758
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/758 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-758-the-sword-points-to-the-other-side/
+mkdir downloads/759
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/759 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-759-1-helper/
+mkdir downloads/760
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/760 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-760-body-armor/
+mkdir downloads/761
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/761 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-761-falling-into-self-doubt/
+mkdir downloads/762
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/762 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-762-wanjie-pawnshop/
+mkdir downloads/763
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/763 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-763-i-really-mean/
+mkdir downloads/764
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/764 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-764-talent/
+mkdir downloads/765
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/765 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-765-1-yuan-heaven/
+mkdir downloads/766
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/766 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-766-talent-transformation/
+mkdir downloads/767
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/767 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-767-see-you-in-the-future/
+mkdir downloads/768
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/768 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-768-above-11-dimensions/
+mkdir downloads/769
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/769 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-769-step-into-the-source/
+mkdir downloads/770
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/770 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-770-desire-to-fight-against-the-eternal-shore/
+mkdir downloads/771
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/771 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-771-one-punch-to-destroy-the-other-shore/
+mkdir downloads/772
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/772 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-772-sharp-edge/
+mkdir downloads/773
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/773 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-773-immeasurable-heavens/
+mkdir downloads/774
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/774 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-774-crazy-black-plague/
+mkdir downloads/775
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/775 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-775-1-look/
+mkdir downloads/776
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/776 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-776-prehistoric-atmosphere/
+mkdir downloads/777
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/777 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-777-the-style-is-getting-weird/
+mkdir downloads/778
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/778 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-778-devoured-1/
+mkdir downloads/779
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/779 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-779-dialogue-with-detachment/
+mkdir downloads/780
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/780 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-780-all-calculations-are-finally-broken/
+mkdir downloads/781
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/781 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-781-perfect-heavens/
+mkdir downloads/782
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/782 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-782-beyond-the-ancient-road/
+mkdir downloads/783
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/783 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-783-1-wonderful-forbidden-area/
+mkdir downloads/784
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/784 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-784-silence-after-eternity/
+mkdir downloads/785
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/785 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-785-nothingness/
+mkdir downloads/786
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/786 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-786-transcendence-experimental-base/
+mkdir downloads/787
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/787 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-787-self-ignorance/
+mkdir downloads/788
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/788 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-788-invincible-on-the-other-side/
+mkdir downloads/789
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/789 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-789-the-head-of-tai-a/
+mkdir downloads/790
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/790 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-790-the-ruins-of-bharat-kshati/
+mkdir downloads/791
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/791 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-791-dr-chen-smiled/
+mkdir downloads/792
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/792 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-792-grey-riot/
+mkdir downloads/793
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/793 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-793-helpless-and-sad/
+mkdir downloads/794
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/794 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-794-tribulation-of-all-races/
+mkdir downloads/795
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/795 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-795-information-focus/
+mkdir downloads/796
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/796 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-796-black-disaster-prohibition/
+mkdir downloads/797
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/797 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-797-information-exchange/
+mkdir downloads/798
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/798 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-798-vortex-force/
+mkdir downloads/799
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/799 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-799-1-person-is-enough/
+mkdir downloads/800
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/800 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-800-god-descends/
+mkdir downloads/801
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/801 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-801-torrent/
+mkdir downloads/802
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/802 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-802-mutation/
+mkdir downloads/803
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/803 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-803-narrative-perspective/
+mkdir downloads/804
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/804 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-804-resurrection/
+mkdir downloads/805
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/805 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-805-10-off-2/
+mkdir downloads/806
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/806 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-806-lord-of-grey/
+mkdir downloads/807
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/807 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-807-the-eternal-gate-has-fallen/
+mkdir downloads/808
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/808 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-808-tai-a-war-territory-is-in-silence/
+mkdir downloads/809
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/809 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-809-the-giant-carrying-tai-a/
+mkdir downloads/810
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/810 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-810-silent-slaughter/
+mkdir downloads/811
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/811 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-811-weili-10-trillion/
+mkdir downloads/812
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/812 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-812-you-are-transcendental/
+mkdir downloads/813
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/813 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-813-the-sword-refers-to-the-black-plague/
+mkdir downloads/814
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/814 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-814-war-ignites-the-crimson-sea/
+mkdir downloads/815
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/815 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-815-battlefield-1-corner/
+mkdir downloads/816
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/816 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-816-category-3-contact/
+mkdir downloads/817
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/817 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-817-white-terror/
+mkdir downloads/818
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/818 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-818-the-confrontation-of-the-transcendence/
+mkdir downloads/819
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/819 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-819-divine-timeline/
+mkdir downloads/820
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/820 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-820-primordial-black-light/
+mkdir downloads/821
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/821 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-821-information-from-the-past/
+mkdir downloads/822
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/822 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-822-break-the-isolation-barrier/
+mkdir downloads/823
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/823 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-823-empress-out-of-the-cage/
+mkdir downloads/824
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/824 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-824-backyard-fire/
+mkdir downloads/825
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/825 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-825-bloodline/
+mkdir downloads/826
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/826 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-826-white-calamity/
+mkdir downloads/827
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/827 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-827-man-behind-the-tomb/
+mkdir downloads/828
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/828 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-828-not-that-simple/
+mkdir downloads/829
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/829 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-829-concept-gourd/
+mkdir downloads/830
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/830 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-830-purple-emperor/
+mkdir downloads/831
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/831 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-831-love-across-time/
+mkdir downloads/832
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/832 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-832-source/
+mkdir downloads/833
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/833 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-833-from-the-last/
+mkdir downloads/834
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/834 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-834-conceptual-source/
+mkdir downloads/835
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/835 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-835-idol-melting-altar/
+mkdir downloads/836
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/836 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-836-will-forever/
+mkdir downloads/837
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/837 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-837-infinite-ladder/
+mkdir downloads/838
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/838 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-838-the-mystery-of-the-origin-of-the-heavens/
+mkdir downloads/839
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/839 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-839-1-way-cross-push/
+mkdir downloads/840
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/840 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-840-undercurrent/
+mkdir downloads/841
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/841 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-841-consciousness-is-eternal/
+mkdir downloads/842
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/842 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-842-i-just-want-to-kill-you/
+mkdir downloads/843
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/843 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-843-1-punch-forever/
+mkdir downloads/844
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/844 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-844-unkillable-transcendence/
+mkdir downloads/845
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/845 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-845-fighting-and-getting-stronger/
+mkdir downloads/846
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/846 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-846-0-jun-1-round/
+mkdir downloads/847
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/847 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-847-ruthless-emperor/
+mkdir downloads/848
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/848 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-848-true-damage/
+mkdir downloads/849
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/849 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-849-yes-or-no/
+mkdir downloads/850
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/850 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-850-immortality-immortality-defeat/
+mkdir downloads/851
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/851 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-851-terrorist-enemy/
+mkdir downloads/852
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/852 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-852-source-plan/
+mkdir downloads/853
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/853 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-853-source-controller/
+mkdir downloads/854
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/854 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-854-10-square-shelter/
+mkdir downloads/855
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/855 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-855-blue-star-will/
+mkdir downloads/856
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/856 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-856-fog-time/
+mkdir downloads/857
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/857 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-857-overlooked-key/
+mkdir downloads/858
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/858 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-858-cobblestone-mystery/
+mkdir downloads/859
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/859 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-859-logical-black-source/
+mkdir downloads/860
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/860 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-860-white-tomorrow/
+mkdir downloads/861
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/861 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-861-the-heavens-are-dead/
+mkdir downloads/862
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/862 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-862-out-of-reach/
+mkdir downloads/863
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/863 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-863-buddha-is-a-devil/
+mkdir downloads/864
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/864 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-864-the-omnipotence-paradox/
+mkdir downloads/865
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/865 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-865-kneelers-live-and-rebels-die/
+mkdir downloads/866
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/866 https://www.mtlnovel.com/im-too-strong-to-be-immortal/v2-chapter-866-transcendence-finally/
+mkdir downloads/1
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/1 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-1-yunzhou-baijia/
+mkdir downloads/2
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/2 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-2-my-body-is-not-right/
+mkdir downloads/3
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/3 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-3-ability-to-guard-against-the-sky/
+mkdir downloads/4
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/4 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-4-jushi-martial-arts-museum/
+mkdir downloads/5
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/5 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-5-contact-fanwu/
+mkdir downloads/6
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/6 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-6-body-refining-5-realms/
+mkdir downloads/7
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/7 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-7-xuan-yue/
+mkdir downloads/8
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/8 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-8-demons-raid-the-village/
+mkdir downloads/9
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/9 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-9-punish-evil/
+mkdir downloads/10
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/10 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-10-exchange-blood/
+mkdir downloads/11
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/11 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-11-hunting/
+mkdir downloads/12
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/12 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-12-kill/
+mkdir downloads/13
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/13 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-13-the-mother-river-refines-the-true-spirit/
+mkdir downloads/14
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/14 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-14-129-600-domains/
+mkdir downloads/15
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/15 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-15-da-luo-jianzong/
+mkdir downloads/16
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/16 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-16-bai-yuanzhen/
+mkdir downloads/17
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/17 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-17-wuge-nursing-home/
+mkdir downloads/18
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/18 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-18-7-injuries/
+mkdir downloads/19
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/19 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-19-inu-rong/
+mkdir downloads/20
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/20 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-20-encounter-ghost/
+mkdir downloads/21
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/21 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-21-spiritual-air/
+mkdir downloads/22
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/22 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-22-finally-leave/
+mkdir downloads/23
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/23 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-23-nujiang-taotao/
+mkdir downloads/24
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/24 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-24-linjiang-night-market/
+mkdir downloads/25
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/25 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-25-lingshi/
+mkdir downloads/26
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/26 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-26-blue/
+mkdir downloads/27
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/27 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-27-bronze-box/
+mkdir downloads/28
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/28 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-28-grey-fog/
+mkdir downloads/29
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/29 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-29-weird/
+mkdir downloads/30
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/30 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-30-brass-lamp/
+mkdir downloads/31
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/31 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-31-8-door-white-emperor/
+mkdir downloads/32
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/32 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-32-1-finger-covering-the-sky/
+mkdir downloads/33
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/33 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-33-go-to-1-da-neng/
+mkdir downloads/34
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/34 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-34-moa-inflammation/
+mkdir downloads/35
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/35 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-35-the-clown-is-myself/
+mkdir downloads/36
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/36 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-36-shahai-palace/
+mkdir downloads/37
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/37 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-37-supernatural-powers/
+mkdir downloads/38
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/38 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-38-fighting-beast/
+mkdir downloads/39
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/39 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-39-will-of-light/
+mkdir downloads/40
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/40 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-40-fall-from-the-sky-senior-white/
+mkdir downloads/41
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/41 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-41-extreme/
+mkdir downloads/42
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/42 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-42-too-sad/
+mkdir downloads/43
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/43 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-43-battle-royale/
+mkdir downloads/44
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/44 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-44-su-7/
+mkdir downloads/45
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/45 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-45-fight-to-madness/
+mkdir downloads/46
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/46 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-46-giant-deep-into-the-clouds/
+mkdir downloads/47
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/47 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-47-extreme-bracelet/
+mkdir downloads/48
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/48 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-48-stele-world/
+mkdir downloads/49
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/49 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-49-boundless-blood-sea/
+mkdir downloads/50
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/50 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-50-night-banquet-by-the-lake/
+mkdir downloads/51
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/51 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-51-secret-of-burning-blood/
+mkdir downloads/52
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/52 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-52-heaven-earth-and-people/
+mkdir downloads/53
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/53 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-53-book-mountain/
+mkdir downloads/54
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/54 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-54-tower-of-babel/
+mkdir downloads/55
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/55 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-55-hard/
+mkdir downloads/56
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/56 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-56-this-move-hurts-god-and/
+mkdir downloads/57
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/57 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-57-defeated/
+mkdir downloads/58
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/58 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-58-the-law-of-transcendence/
+mkdir downloads/59
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/59 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-59-mingyu-ancient-world/
+mkdir downloads/60
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/60 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-60-i-m-not-a-man-anymore/
+mkdir downloads/61
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/61 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-61-zhoudian/
+mkdir downloads/62
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/62 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-62-uta/
+mkdir downloads/63
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/63 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-63-1-sword-slashing-stars/
+mkdir downloads/64
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/64 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-64-space-closed-loop/
+mkdir downloads/65
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/65 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-65-no-burial-domain/
+mkdir downloads/66
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/66 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-66-such-a-good-thing/
+mkdir downloads/67
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/67 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-67-tiancai-dibao/
+mkdir downloads/68
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/68 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-68-i-am-not-your-grandpa/
+mkdir downloads/69
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/69 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-69-why-is-this/
+mkdir downloads/70
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/70 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-70-black-knife/
+mkdir downloads/71
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/71 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-71-white-crow/
+mkdir downloads/72
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/72 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-72-self-investment/
+mkdir downloads/73
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/73 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-73-omen-of-death/
+mkdir downloads/74
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/74 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-74-mist/
+mkdir downloads/75
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/75 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-75-hua-ling/
+mkdir downloads/76
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/76 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-76-eternal-night/
+mkdir downloads/77
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/77 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-77-xiaohuangcun/
+mkdir downloads/78
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/78 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-78-ancient-world-alliance/
+mkdir downloads/79
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/79 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-79-justifiable-defense/
+mkdir downloads/80
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/80 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-80-i-m-really-not-a-villain/
+mkdir downloads/81
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/81 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-81-unknown-enemy/
+mkdir downloads/82
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/82 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-82-tribute-to-the-dark-sky/
+mkdir downloads/83
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/83 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-83-10-fierce/
+mkdir downloads/84
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/84 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-84-role-swap/
+mkdir downloads/85
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/85 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-85-sneak-attack/
+mkdir downloads/86
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/86 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-86-pigeons-released/
+mkdir downloads/87
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/87 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-87-yin-and-yang-are-in-danger/
+mkdir downloads/88
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/88 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-88-eat-ball/
+mkdir downloads/89
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/89 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-89-dream-back-to-chaos/
+mkdir downloads/90
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/90 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-90-what-should-i-do-if-the-child-is-always-hungry/
+mkdir downloads/91
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/91 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-91-mine-is-mine/
+mkdir downloads/92
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/92 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-92-take-away/
+mkdir downloads/93
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/93 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-93-pain/
+mkdir downloads/94
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/94 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-94-hunting-moment/
+mkdir downloads/95
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/95 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-95-kill/
+mkdir downloads/96
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/96 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-96-spirit-swallowing-gourd/
+mkdir downloads/97
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/97 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-97-humanoid-self-detonator/
+mkdir downloads/98
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/98 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-98-take-off/
+mkdir downloads/99
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/99 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-99-taoist-buddha/
+mkdir downloads/100
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/100 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-100-sorrowful-yudu-sword/
+mkdir downloads/101
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/101 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-101-end-yan/
+mkdir downloads/102
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/102 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-102-not-bad/
+mkdir downloads/103
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/103 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-103-10-unstoppable-formations/
+mkdir downloads/104
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/104 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-104-eternal-night-will-start/
+mkdir downloads/105
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/105 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-105-frozen-soil/
+mkdir downloads/106
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/106 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-106-10-fierce-demon-sword-out/
+mkdir downloads/107
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/107 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-107-eternal-death/
+mkdir downloads/108
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/108 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-108-heart-of-heaven-and-earth/
+mkdir downloads/109
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/109 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-109-moro-is-in-a-hurry/
+mkdir downloads/110
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/110 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-110-ami-wutian-buddha/
+mkdir downloads/111
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/111 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-111-return/
+mkdir downloads/112
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/112 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-112-shenhai-of-heibei-town/
+mkdir downloads/113
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/113 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-113-favorite-shinto/
+mkdir downloads/114
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/114 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-114-see-and-hear/
+mkdir downloads/115
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/115 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-115-qianlong-young-phoenix/
+mkdir downloads/116
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/116 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-116-infinite-arena/
+mkdir downloads/117
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/117 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-117-fierce-battle-in-the-brain/
+mkdir downloads/118
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/118 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-118-who-wants-to-me/
+mkdir downloads/119
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/119 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-119-strict-rules/
+mkdir downloads/120
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/120 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-120-7-great-hells-of-black-hells/
+mkdir downloads/121
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/121 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-121-unparalleled-land/
+mkdir downloads/122
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/122 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-122-seize-power/
+mkdir downloads/123
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/123 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-123-black-prison-29th-research-institute/
+mkdir downloads/124
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/124 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-124-human-universe/
+mkdir downloads/125
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/125 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-125-borrow-a-knife/
+mkdir downloads/126
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/126 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-126-white-jade-villain/
+mkdir downloads/127
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/127 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-127-spiritual-aperture-and-source-of-light/
+mkdir downloads/128
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/128 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-128-10-borders/
+mkdir downloads/129
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/129 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-129-5-star-killer/
+mkdir downloads/130
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/130 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-130-3-talents/
+mkdir downloads/131
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/131 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-131-i-m-going-to-start-to-wave/
+mkdir downloads/132
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/132 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-132-with-full-force/
+mkdir downloads/133
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/133 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-133-upanishad-killing-move/
+mkdir downloads/134
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/134 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-134-annihilation/
+mkdir downloads/135
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/135 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-135-moyu-kylin/
+mkdir downloads/136
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/136 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-136-virtual-and-real-rotation/
+mkdir downloads/137
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/137 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-137-secret-of-dharma/
+mkdir downloads/138
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/138 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-138-everyone-eat-and-drink-well/
+mkdir downloads/139
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/139 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-139-unknown-contraindications/
+mkdir downloads/140
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/140 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-140-i-will-pet-you-alone-from-now-on/
+mkdir downloads/141
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/141 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-141-how-could-it-be-azhen/
+mkdir downloads/142
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/142 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-142-unlimited-energy-plan/
+mkdir downloads/143
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/143 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-143-miss-duobaofeng-9/
+mkdir downloads/144
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/144 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-144-don-t-make-money-shabby/
+mkdir downloads/145
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/145 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-145-heavenly-tyrant-bloody-battle-body/
+mkdir downloads/146
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/146 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-146-feel-my-pain/
+mkdir downloads/147
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/147 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-147-endless-knowledge/
+mkdir downloads/148
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/148 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-148-wan-e-poison-pearl/
+mkdir downloads/149
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/149 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-149-essence-essence/
+mkdir downloads/150
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/150 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-150-eternal-only-one-real-world/
+mkdir downloads/151
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/151 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-151-fight-for-hegemony/
+mkdir downloads/152
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/152 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-152-dan-yang-dan/
+mkdir downloads/153
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/153 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-153-crossover-core/
+mkdir downloads/154
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/154 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-154-so-humble-and-polite/
+mkdir downloads/155
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/155 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-155-military-inheritance/
+mkdir downloads/156
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/156 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-156-coming-to-the-military-world/
+mkdir downloads/157
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/157 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-157-9-orifice-linglong/
+mkdir downloads/158
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/158 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-158-dimai-yanling/
+mkdir downloads/159
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/159 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-159-the-wind-screams/
+mkdir downloads/160
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/160 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-160-yin-and-yang-cycle-in-black-and-white-circles/
+mkdir downloads/161
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/161 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-161-unyielding/
+mkdir downloads/162
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/162 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-162-low-dimensional-world/
+mkdir downloads/163
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/163 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-163-blood-red-altar/
+mkdir downloads/164
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/164 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-164-golden-spire/
+mkdir downloads/165
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/165 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-165-8th-part/
+mkdir downloads/166
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/166 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-166-brother-bai-is-autistic/
+mkdir downloads/167
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/167 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-167-enriched-purple/
+mkdir downloads/168
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/168 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-168-explosive-power/
+mkdir downloads/169
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/169 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-169-catch-and-fight/
+mkdir downloads/170
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/170 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-170-hard-fist-hard/
+mkdir downloads/171
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/171 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-171-a-crack-running-through-the-sky/
+mkdir downloads/172
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/172 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-172-manifestation-of-the-mark-of-the-battlefield/
+mkdir downloads/173
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/173 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-173-full-of-fish/
+mkdir downloads/174
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/174 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-174-leave-the-military/
+mkdir downloads/175
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/175 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-175-gudao-warm-sausage/
+mkdir downloads/176
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/176 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-176-give-the-surname-white/
+mkdir downloads/177
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/177 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-177-tomb-tou-beng-di/
+mkdir downloads/178
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/178 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-178-incalculable-strength/
+mkdir downloads/179
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/179 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-179-tongtian-99/
+mkdir downloads/180
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/180 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-180-step-into-the-boundless-world-in-1-step/
+mkdir downloads/181
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/181 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-181-monkey-king-s-speed/
+mkdir downloads/182
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/182 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-182-every-year/
+mkdir downloads/183
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/183 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-183-heart-of-9-rings/
+mkdir downloads/184
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/184 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-184-purple-blood-unicorn-horn/
+mkdir downloads/185
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/185 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-185-curse/
+mkdir downloads/186
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/186 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-186-strong-title/
+mkdir downloads/187
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/187 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-187-curse-of-cross-border-horror/
+mkdir downloads/188
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/188 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-188-every-year-is-the-demon-king/
+mkdir downloads/189
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/189 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-189-alchemist-tier-9/
+mkdir downloads/190
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/190 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-190-magic-change-hypercube/
+mkdir downloads/191
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/191 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-191-undercurrent/
+mkdir downloads/192
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/192 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-192-i-have-a-good-appetite/
+mkdir downloads/193
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/193 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-193-3-ways/
+mkdir downloads/194
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/194 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-194-congenital-9-dragon-furnace/
+mkdir downloads/195
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/195 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-195-i-m-going-to-speed-up/
+mkdir downloads/196
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/196 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-196-conscience-rests/
+mkdir downloads/197
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/197 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-197-dimensional-heart/
+mkdir downloads/198
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/198 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-198-resounding-the-name-of-the-ultimate/
+mkdir downloads/199
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/199 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-199-silver-cube/
+mkdir downloads/200
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/200 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-200-the-vast-ocean-is-so-poor/
+mkdir downloads/201
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/201 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-201-heaven-defying-spirit-of-pure-spirit/
+mkdir downloads/202
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/202 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-202-the-respect-of-jian-xiu/
+mkdir downloads/203
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/203 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-203-alarm-physique/
+mkdir downloads/204
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/204 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-204-old-capitalist/
+mkdir downloads/205
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/205 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-205-hero-debut/
+mkdir downloads/206
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/206 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-206-heart-out/
+mkdir downloads/207
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/207 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-207-aura-of-destruction/
+mkdir downloads/208
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/208 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-208-shattered-golden-light/
+mkdir downloads/209
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/209 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-209-grow-mushrooms/
+mkdir downloads/210
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/210 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-210-it-s-not-him-after-all/
+mkdir downloads/211
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/211 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-211-my-name-is-little-green/
+mkdir downloads/212
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/212 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-212-original-bomb/
+mkdir downloads/213
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/213 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-213-misty-in-endless-dimensions/
+mkdir downloads/214
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/214 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-214-the-shining-light-of-the-id-s-wisdom/
+mkdir downloads/215
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/215 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-215-the-romance-of-the-tyrant/
+mkdir downloads/216
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/216 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-216-don-t-look-directly/
+mkdir downloads/217
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/217 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-217-rose-s-funeral/
+mkdir downloads/218
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/218 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-218-harvest-coffer/
+mkdir downloads/219
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/219 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-219-black-giant-palm/
+mkdir downloads/220
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/220 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-220-shenting-inspection-department/
+mkdir downloads/221
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/221 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-221-kunmo-ghost-mansion/
+mkdir downloads/222
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/222 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-222-come-to-an-end/
+mkdir downloads/223
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/223 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-223-the-gods-will-bless-you/
+mkdir downloads/224
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/224 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-224-mitsuyuki-giants/
+mkdir downloads/225
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/225 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-225-purple-raijinyama/
+mkdir downloads/226
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/226 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-226-nanyang-country-is-crazy/
+mkdir downloads/227
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/227 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-227-xuandi-yaoguang/
+mkdir downloads/228
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/228 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-228-tianluodiwang/
+mkdir downloads/229
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/229 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-229-plant-the-law/
+mkdir downloads/230
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/230 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-230-the-debut-of-the-evildoers/
+mkdir downloads/231
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/231 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-231-wandering-emperor/
+mkdir downloads/232
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/232 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-232-1000-years-old/
+mkdir downloads/233
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/233 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-233-1-point-galaxy/
+mkdir downloads/234
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/234 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-234-road-of-thorns/
+mkdir downloads/235
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/235 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-235-insect-eater/
+mkdir downloads/236
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/236 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-236-swallow-the-fire/
+mkdir downloads/237
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/237 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-237-no-ji-tai-lai/
+mkdir downloads/238
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/238 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-238-times-crest/
+mkdir downloads/239
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/239 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-239-customs-clearance-66/
+mkdir downloads/240
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/240 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-240-king-of-tatters/
+mkdir downloads/241
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/241 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-241-mechanical-frenzy/
+mkdir downloads/242
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/242 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-242-war-is-beheading/
+mkdir downloads/243
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/243 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-243-boring-killing/
+mkdir downloads/244
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/244 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-244-brave-heart/
+mkdir downloads/245
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/245 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-245-dong-ge-s-vision/
+mkdir downloads/246
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/246 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-246-ask-heart/
+mkdir downloads/247
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/247 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-247-globe-trekker/
+mkdir downloads/248
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/248 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-248-light-and-shadow/
+mkdir downloads/249
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/249 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-249-to-death/
+mkdir downloads/250
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/250 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-250-1-flower-1-world/
+mkdir downloads/251
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/251 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-251-she-s-not-a-man-anymore/
+mkdir downloads/252
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/252 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-252-i-like-to-eat-roasted-big-birds/
+mkdir downloads/253
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/253 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-253-gorgeous-day/
+mkdir downloads/254
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/254 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-254-little-luck/
+mkdir downloads/255
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/255 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-255-photoball-cub/
+mkdir downloads/256
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/256 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-256-tianluo-space/
+mkdir downloads/257
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/257 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-257-golden-flame-erysipelas/
+mkdir downloads/258
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/258 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-258-invisible/
+mkdir downloads/259
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/259 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-259-start-the-trial/
+mkdir downloads/260
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/260 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-260-extreme-clock/
+mkdir downloads/261
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/261 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-261-sound/
+mkdir downloads/262
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/262 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-262-the-talent-is-too-strong/
+mkdir downloads/263
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/263 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-263-light-spot-inclusion/
+mkdir downloads/264
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/264 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-264-weird-shouyuan/
+mkdir downloads/265
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/265 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-265-7-color-seeds/
+mkdir downloads/266
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/266 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-266-break-the-ground/
+mkdir downloads/267
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/267 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-267-eternal-immortality/
+mkdir downloads/268
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/268 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-268-self-cultivation-of-spies/
+mkdir downloads/269
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/269 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-269-9-star-must-die/
+mkdir downloads/270
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/270 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-270-speed/
+mkdir downloads/271
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/271 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-271-nightmare-nematode/
+mkdir downloads/272
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/272 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-272-tao-domain/
+mkdir downloads/273
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/273 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-273-3-seidou-so/
+mkdir downloads/274
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/274 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-274-99-catastrophe-cast-body/
+mkdir downloads/275
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/275 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-275-middle-earth-china/
+mkdir downloads/276
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/276 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-276-xuangui-daojie/
+mkdir downloads/277
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/277 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-277-borrow/
+mkdir downloads/278
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/278 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-278-3-ignorant-real-fire/
+mkdir downloads/279
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/279 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-279-xiantian-8-hexagrams-and-taiji-diagram/
+mkdir downloads/280
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/280 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-280-ghost-mansion-war-department/
+mkdir downloads/281
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/281 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-281-crusade-plan/
+mkdir downloads/282
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/282 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-282-9-halo/
+mkdir downloads/283
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/283 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-283-thought/
+mkdir downloads/284
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/284 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-284-geocentric-furnace/
+mkdir downloads/285
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/285 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-285-innocent/
+mkdir downloads/286
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/286 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-286-join-in/
+mkdir downloads/287
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/287 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-287-monsters/
+mkdir downloads/288
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/288 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-288-cangyu-taihu-lake/
+mkdir downloads/289
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/289 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-289-peek-into-fate/
+mkdir downloads/290
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/290 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-290-sleeping-god/
+mkdir downloads/291
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/291 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-291-dragon-fish-soup/
+mkdir downloads/292
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/292 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-292-will-3/
+mkdir downloads/293
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/293 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-293-cut-off-time-and-space/
+mkdir downloads/294
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/294 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-294-the-secret-of-travel/
+mkdir downloads/295
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/295 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-295-hard-ship/
+mkdir downloads/296
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/296 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-296-the-death-penalty-of-time/
+mkdir downloads/297
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/297 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-297-destroy-the-white-light/
+mkdir downloads/298
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/298 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-298-eternal-unforgiveness/
+mkdir downloads/299
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/299 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-299-born-to-be-human/
+mkdir downloads/300
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/300 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-300-actor-s-self-cultivation/
+mkdir downloads/301
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/301 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-301-i-drop-a-tortoise/
+mkdir downloads/302
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/302 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-302-snipe-and-clam-fight/
+mkdir downloads/303
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/303 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-303-fisherman-profit/
+mkdir downloads/304
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/304 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-304-women-s-clothing/
+mkdir downloads/305
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/305 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-305-undress-for-this-son/
+mkdir downloads/206
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/206 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-206-phantom-youth/
+mkdir downloads/307
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/307 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-307-broken-dragon-stone/
+mkdir downloads/308
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/308 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-308-people-are-not-rich-without-windfall/
+mkdir downloads/309
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/309 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-309-8-hexagrams-breaking-array/
+mkdir downloads/310
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/310 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-310-bi-eye-water-ape-king/
+mkdir downloads/311
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/311 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-311-the-plot-of-the-chess-pieces/
+mkdir downloads/312
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/312 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-312-stratification-of-the-world/
+mkdir downloads/313
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/313 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-313-demon-resurrected/
+mkdir downloads/314
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/314 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-314-remember-my-name/
+mkdir downloads/315
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/315 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-315-fighting-the-ape/
+mkdir downloads/316
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/316 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-316-the-characteristics-of-the-strong/
+mkdir downloads/317
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/317 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-317-true-1-ancient-artifact/
+mkdir downloads/318
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/318 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-318-night-of-the-heavy-moon/
+mkdir downloads/319
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/319 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-319-a-glimpse-of-the-real-world/
+mkdir downloads/320
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/320 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-320-door-to-door-in-crisis/
+mkdir downloads/321
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/321 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-321-i-come-from-the-age-of-huntian/
+mkdir downloads/322
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/322 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-322-a-glimpse-of-the-blue/
+mkdir downloads/323
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/323 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-323-book-of-creation/
+mkdir downloads/324
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/324 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-324-blood-slaughter/
+mkdir downloads/325
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/325 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-325-yaozu-s-mind/
+mkdir downloads/326
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/326 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-326-non-existent-plane/
+mkdir downloads/327
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/327 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-327-numb-by-thunder-robbery/
+mkdir downloads/328
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/328 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-328-i-am-at-the-top-again/
+mkdir downloads/329
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/329 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-329-the-exploration-of-civilization/
+mkdir downloads/330
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/330 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-330-non-rejectable-transaction/
+mkdir downloads/331
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/331 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-331-change-of-heart-and-will/
+mkdir downloads/332
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/332 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-332-there-are-2-days/
+mkdir downloads/333
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/333 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-333-air-transport/
+mkdir downloads/334
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/334 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-334-i-borrow-your-skin-for-1-use/
+mkdir downloads/335
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/335 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-335-last-billion-times/
+mkdir downloads/336
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/336 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-336-snow-mountain/
+mkdir downloads/337
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/337 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-337-excessive-force/
+mkdir downloads/338
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/338 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-338-virtual-personality/
+mkdir downloads/339
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/339 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-339-but-you/
+mkdir downloads/340
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/340 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-340-i-love-it-so-domineering/
+mkdir downloads/341
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/341 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-341-open-the-temple/
+mkdir downloads/342
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/342 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-342-3-light-ice-soul-water/
+mkdir downloads/343
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/343 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-343-the-glory-of-man/
+mkdir downloads/344
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/344 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-344-deep-into-the-fountain/
+mkdir downloads/345
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/345 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-345-what-is-8/
+mkdir downloads/346
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/346 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-346-7-color-crystal-flowers/
+mkdir downloads/347
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/347 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-347-drop-1-child/
+mkdir downloads/348
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/348 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-348-turtle-inner-domain/
+mkdir downloads/349
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/349 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-349-the-medium-is-in-hand/
+mkdir downloads/350
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/350 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-350-the-fierce-power-of-the-department-of-war/
+mkdir downloads/351
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/351 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-351-head-rolling/
+mkdir downloads/352
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/352 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-352-burst-black-hole/
+mkdir downloads/353
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/353 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-353-big-buddha/
+mkdir downloads/354
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/354 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-354-part-time-thug/
+mkdir downloads/355
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/355 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-355-the-last-craziness/
+mkdir downloads/356
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/356 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-356-helpless/
+mkdir downloads/357
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/357 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-357-alpha-0-sequence/
+mkdir downloads/358
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/358 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-358-battleship-core/
+mkdir downloads/359
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/359 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-359-mighty-ancestors/
+mkdir downloads/360
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/360 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-360-bang-the-little-chicken-cub/
+mkdir downloads/361
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/361 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-361-dragon-and-phoenix-tomb/
+mkdir downloads/362
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/362 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-362-abduction/
+mkdir downloads/363
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/363 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-363-legend-of-the-giant/
+mkdir downloads/364
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/364 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-364-1-finger-power/
+mkdir downloads/365
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/365 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-365-pure-battle/
+mkdir downloads/366
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/366 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-366-garan-glass-buddha/
+mkdir downloads/367
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/367 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-367-years-old/
+mkdir downloads/368
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/368 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-368-authentic-first/
+mkdir downloads/369
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/369 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-369-alone/
+mkdir downloads/370
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/370 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-370-the-heart-of-boxing-is-dedicated-to-the-ethnic-group/
+mkdir downloads/371
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/371 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-371-corpse-hunter/
+mkdir downloads/372
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/372 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-372-cold-and-awe-inspiring/
+mkdir downloads/373
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/373 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-373-supreme-regulations/
+mkdir downloads/374
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/374 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-374-tengu-food-day/
+mkdir downloads/375
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/375 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-375-shou-yuan-guo/
+mkdir downloads/376
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/376 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-376-can-t-escape-1-death/
+mkdir downloads/377
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/377 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-377-animism/
+mkdir downloads/378
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/378 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-378-6-reincarnation/
+mkdir downloads/379
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/379 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-379-daoists-please-stay/
+mkdir downloads/380
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/380 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-380-swords-and-swords-have-no-edge/
+mkdir downloads/381
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/381 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-381-power-of-the-world/
+mkdir downloads/382
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/382 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-382-loser-undefeated/
+mkdir downloads/383
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/383 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-383-unreasonable/
+mkdir downloads/384
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/384 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-384-can-t-turn-around-for-you/
+mkdir downloads/385
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/385 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-385-7-pill-of-life-and-death/
+mkdir downloads/386
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/386 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-386-tianjiao-battlefield/
+mkdir downloads/387
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/387 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-387-warscar-glory/
+mkdir downloads/389
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/389 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-389-lingxi-1-finger/
+mkdir downloads/390
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/390 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-390-immortal-emperor-9-days/
+mkdir downloads/391
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/391 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-391-step-on-the-sky/
+mkdir downloads/392
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/392 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-392-time-wheel-tomb/
+mkdir downloads/394
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/394 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-394-isn-t-it-better-than-a-clone/
+mkdir downloads/395
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/395 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-395-12th-house/
+mkdir downloads/394
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/394 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-394-heavenly-rune/
+mkdir downloads/395
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/395 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-395-deduction-everything/
+mkdir downloads/396
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/396 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-396-origin-of-the-rule/
+mkdir downloads/397
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/397 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-397-extreme-yin-produces-extreme-yang/
+mkdir downloads/398
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/398 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-398-exposed/
+mkdir downloads/399
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/399 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-399-1-life-for-1-life/
+mkdir downloads/400
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/400 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-400-ji-dao-ancestral-order/
+mkdir downloads/401
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/401 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-401-1-force-to-break-the-law/
+mkdir downloads/402
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/402 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-402-moro-is-in-a-hurry-again/
+mkdir downloads/403
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/403 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-403-step-into-the-boundless-universe/
+mkdir downloads/404
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/404 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-404-cross-border-hub/
+mkdir downloads/405
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/405 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-405-old-friends-meet/
+mkdir downloads/406
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/406 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-406-war-call/
+mkdir downloads/407
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/407 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-407-jiuyoutianguan/
+mkdir downloads/408
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/408 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-408-disgusting-meatball/
+mkdir downloads/409
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/409 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-409-hero-debut/
+mkdir downloads/410
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/410 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-410-industry-fire-red-lotus/
+mkdir downloads/411
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/411 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-411-1-gasification-3-clear/
+mkdir downloads/412
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/412 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-412-abnormal-seam/
+mkdir downloads/413
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/413 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-413-faceless-baby/
+mkdir downloads/414
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/414 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-414-scary-soul-refining/
+mkdir downloads/415
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/415 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-415-1-chao-wendao/
+mkdir downloads/416
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/416 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-416-this-is-war/
+mkdir downloads/417
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/417 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-417-upanishad/
+mkdir downloads/418
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/418 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-418-1-wipe-of-snow-white/
+mkdir downloads/419
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/419 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-419-slaughter-trillions/
+mkdir downloads/420
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/420 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-420-non-existent-ghost/
+mkdir downloads/421
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/421 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-421-energy-thief/
+mkdir downloads/422
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/422 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-422-the-wise-among-the-wise/
+mkdir downloads/423
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/423 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-423-sage-s-stone/
+mkdir downloads/424
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/424 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-424-go-away/
+mkdir downloads/425
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/425 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-425-battle-soul-network/
+mkdir downloads/426
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/426 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-426-congratulations/
+mkdir downloads/427
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/427 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-427-information-erasure/
+mkdir downloads/428
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/428 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-428-dimensional-world/
+mkdir downloads/429
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/429 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-429-1-yuan-number/
+mkdir downloads/430
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/430 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-430-body-extreme/
+mkdir downloads/431
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/431 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-431-shiratama-kyo/
+mkdir downloads/432
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/432 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-432-blood-skull/
+mkdir downloads/433
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/433 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-433-how-can-there-be-such-a-big-brother-in-the-world/
+mkdir downloads/434
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/434 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-434-insight-into-the-truth/
+mkdir downloads/435
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/435 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-435-jidao-council/
+mkdir downloads/436
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/436 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-436-dusk-and-dawn/
+mkdir downloads/437
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/437 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-437-shouzhong-1-pulse/
+mkdir downloads/438
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/438 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-438-come-on/
+mkdir downloads/439
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/439 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-439-self-introduction/
+mkdir downloads/440
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/440 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-440-tianxin-project/
+mkdir downloads/441
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/441 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-441-supreme-council-of-the-human-race/
+mkdir downloads/442
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/442 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-442-1-arrow-of-might/
+mkdir downloads/443
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/443 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-443-zhan-qi/
+mkdir downloads/444
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/444 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-444-matrix-world/
+mkdir downloads/445
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/445 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-445-throttling-of-the-gods/
+mkdir downloads/446
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/446 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-446-crime-of-killing/
+mkdir downloads/447
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/447 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-447-rigid-body/
+mkdir downloads/448
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/448 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-448-originator/
+mkdir downloads/449
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/449 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-449-crazy-guess/
+mkdir downloads/450
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/450 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-450-desperate-for-the-human-race/
+mkdir downloads/451
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/451 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-451-also-for-myself/
+mkdir downloads/452
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/452 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-452-cast-a-net-for-fish/
+mkdir downloads/453
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/453 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-453-10-days/
+mkdir downloads/454
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/454 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-454-lord-of-sins/
+mkdir downloads/455
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/455 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-455-you-must-first-settle-inside/
+mkdir downloads/456
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/456 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-456-information-editing/
+mkdir downloads/457
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/457 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-457-human-will/
+mkdir downloads/458
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/458 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-458-goddess-of-the-empress/
+mkdir downloads/459
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/459 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-459-great-migration/
+mkdir downloads/460
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/460 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-460-get-rid-of/
+mkdir downloads/461
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/461 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-461-civilization-development-department/
+mkdir downloads/462
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/462 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-462-information-assimilation/
+mkdir downloads/463
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/463 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-463-bloody-battle-standard/
+mkdir downloads/464
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/464 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-464-gun-name/
+mkdir downloads/465
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/465 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-465-noah-s-ark/
+mkdir downloads/466
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/466 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-466-demise-on-the-10th/
+mkdir downloads/467
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/467 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-467-cherub-space/
+mkdir downloads/468
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/468 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-468-real-place/
+mkdir downloads/469
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/469 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-469-eternal-spear/
+mkdir downloads/470
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/470 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-470-the-deepest-monster/
+mkdir downloads/471
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/471 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-471-rescue-brother-bai/
+mkdir downloads/472
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/472 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-472-remnant-bone-demon-realm/
+mkdir downloads/473
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/473 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-473-the-beginning-of-everything/
+mkdir downloads/474
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/474 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-474-not-an-enemy-or-friend/
+mkdir downloads/475
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/475 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-475-part-8-noyama/
+mkdir downloads/476
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/476 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-476-heaven-and-earth-congratulations/
+mkdir downloads/477
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/477 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-477-lord/
+mkdir downloads/478
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/478 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-478-the-richest-man-in-the-world/
+mkdir downloads/479
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/479 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-479-super-thinking-quantum-cloud/
+mkdir downloads/480
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/480 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-480-refining-dao-ji-li-tian-dao/
+mkdir downloads/481
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/481 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-481-1-shot-thrown-into-the-world/
+mkdir downloads/482
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/482 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-482-eternal-guardian/
+mkdir downloads/483
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/483 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-483-9-states-of-will/
+mkdir downloads/484
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/484 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-484-ordinary-pebbles/
+mkdir downloads/485
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/485 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-485-lad/
+mkdir downloads/486
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/486 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-486-god-level-seal/
+mkdir downloads/487
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/487 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-487-great-obsession/
+mkdir downloads/488
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/488 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-488-leaf-picking-star/
+mkdir downloads/489
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/489 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-489-gods-and-demons/
+mkdir downloads/490
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/490 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-490-10-fang-jieyun-refining-gods-and-demons/
+mkdir downloads/491
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/491 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-491-billion-feet-of-flesh/
+mkdir downloads/492
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/492 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-492-the-ills-of-time/
+mkdir downloads/493
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/493 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-493-cannot-be-reproduced/
+mkdir downloads/494
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/494 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-494-absolutely-true/
+mkdir downloads/495
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/495 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-495-crazy-slaughter/
+mkdir downloads/496
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/496 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-496-finally-reappear/
+mkdir downloads/497
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/497 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-497-11-liquidation/
+mkdir downloads/498
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/498 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-498-conflict-of-interests/
+mkdir downloads/499
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/499 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-499-mental-2-elephant/
+mkdir downloads/500
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/500 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-500-shirakami-area/
+mkdir downloads/501
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/501 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-501-ding-dong-ding-dong/
+mkdir downloads/502
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/502 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-502-3-layer-dimension/
+mkdir downloads/503
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/503 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-503-mature-old-capitalist/
+mkdir downloads/504
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/504 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-504-the-unstoppable-temple/
+mkdir downloads/505
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/505 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-505-corpse-ancient-demon/
+mkdir downloads/506
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/506 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-506-endless-abyss/
+mkdir downloads/507
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/507 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-507-stygian-pregnancy/
+mkdir downloads/508
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/508 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-508-disorder/
+mkdir downloads/509
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/509 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-509-wanyuan-plain/
+mkdir downloads/510
+mkdir downloads/508
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/508 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-508-disorder/
+mkdir downloads/509
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/509 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-509-wanyuan-plain/
+mkdir downloads/510
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/510 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-510-fanghua-peedai-99th/
+mkdir downloads/511
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/511 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-511-like-an-enemy/
+mkdir downloads/512
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/512 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-512-unknown-enemy/
+mkdir downloads/513
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/513 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-513-inanimate/
+mkdir downloads/514
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/514 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-514-do-kids-want-to-eat-chicken-drumsticks/
+mkdir downloads/515
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/515 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-515-inexhaustible/
+mkdir downloads/516
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/516 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-516-wallbreaker/
+mkdir downloads/517
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/517 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-517-lupusio-s-wound/
+mkdir downloads/518
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/518 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-518-through-the-endless-abyss/
+mkdir downloads/519
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/519 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-519-dispel-the-fog/
+mkdir downloads/520
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/520 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-520-the-light-of-life/
+mkdir downloads/521
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/521 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-521-breaking-the-wall-and-hiding/
+mkdir downloads/522
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/522 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-522-kick-out-the-middlemen/
+mkdir downloads/523
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/523 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-523-9-crystal-skulls/
+mkdir downloads/524
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/524 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-524-the-real-role-of-cherubim/
+mkdir downloads/525
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/525 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-525-make-waves-again/
+mkdir downloads/526
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/526 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-526-borrow-a-knife-for-1-use/
+mkdir downloads/527
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/527 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-527-zhuxian-4-sword-master/
+mkdir downloads/528
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/528 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-528-horror-gaze/
+mkdir downloads/529
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/529 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-529-1-net-out/
+mkdir downloads/530
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/530 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-530-the-most-important-thing-is-to-be-happy/
+mkdir downloads/531
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/531 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-531-set-foot-on-the-peak/
+mkdir downloads/532
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/532 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-532-sitting-in-blood-prison/
+mkdir downloads/533
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/533 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-533-famous/
+mkdir downloads/534
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/534 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-534-will-kill-mora/
+mkdir downloads/535
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/535 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-535-calm-down-the-magic-sword-with-life/
+mkdir downloads/536
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/536 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-536-perfect-origin-sword-body/
+mkdir downloads/537
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/537 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-537-end-and-reappear/
+mkdir downloads/538
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/538 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-538-welcome-to-hell/
+mkdir downloads/539
+aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M --dir=/home/piyush/Desktop/Manual_scrape/downloads/539 https://www.mtlnovel.com/im-too-strong-to-be-immortal/chapter-539-nini-the-big-devil/

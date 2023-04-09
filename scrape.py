@@ -29,5 +29,5 @@ class scraper:
             print(f'downloading {number} - {title}')
             wk.Worker(f'mkdir downloads/{number}')
             time.sleep(0.2)
-            dl.load(f'/home/piyush/Desktop/Manual_scrape/downloads/{number}',link)
+            wk.Worker(f'python3 download.py /home/piyush/Desktop/Manual_scrape/downloads/{number} {link}')
     

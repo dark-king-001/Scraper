@@ -8,5 +8,5 @@ chunk_size = 100 #mbs
 # --dir=/path/to/download/location is an option that specifies the directory where the downloaded file should be saved.
 # "http://example.com/file.zip" is the URL of the file to be downloaded.
 
-def load(path, link):
-    wk.Worker('aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M ' + f'--dir={path} '+ sys.argv[1])
+def load(path):
+    wk.Worker('aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M ' + f'--dir='+ sys.argv[1] + ' ' + sys.argv[2])

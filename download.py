@@ -1,4 +1,5 @@
 import Worker as wk
+import sys
 chunk_size = 100 #mbs
 
 # In this command:
@@ -8,4 +9,4 @@ chunk_size = 100 #mbs
 # "http://example.com/file.zip" is the URL of the file to be downloaded.
 
 def load(path, link):
-    wk.Worker('aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M ' + f'--dir={path} '+ link)
+    wk.Worker('aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M ' + f'--dir={path} '+ sys.argv[1])

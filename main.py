@@ -3,18 +3,18 @@ import time
 import Worker as wk
 import download as dl
 
-# class scraper:
-#     def __init__(self):
-#         print("hello")
+class scraper:
+    def __init__(self):
+        print("hello")
 
-# lol = scraper()
+lol = scraper()
 f = open('permalink/permalink.json')
 data = json.load(f)
 
 operation_length = len(data['items'])
 print(f'starting operation {operation_length}')
 
-for i in range(515,operation_length,1):
+for i in range(0,operation_length,1):
     if data['items'][i]['no'].split(' ')[0] != '~':
         number = data['items'][i]['no'].split(' ')[1]
     else:

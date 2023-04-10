@@ -11,23 +11,27 @@ import download as dl
 #     }
 # ]
 class scraper:
-    def __init__(self):
-        f = open('permalink/permalink.json')
+    def __init__(self,permalink):
+        f = open(permalink)
         self.data = json.load(f)
-        self.operation_length = len(data)
-        print(f'starting operation {operation_length}')
+        self.operation_length = len(self.data['items'])
+        self.links = []
         f.close()
-    def download(self);
-        for i in range(0,self.operation_length,1):
-            if self.data['items'][i]['no'].split(' ')[0] != '~':
-                number = self.data['items'][i]['no'].split(' ')[1]
-            else:
-                print("Index out of range")
-                continue
-            title = self.data['items'][i]['title']
-            link = self.data['items'][i]['permalink']
-            print(f'downloading {number} - {title}')
-            wk.Worker(f'mkdir downloads/{number}')
-            time.sleep(0.2)
-            wk.Worker(f'python3 download.py /home/piyush/Desktop/Manual_scrape/downloads/{number} {link}')
-    
+    def download(self):
+        for i in range(0,len(self.links),1):
+            try: 
+                name = self.links[i][8::1]
+                link = self.links[i]
+                print(f'Num{i}:downloading {name}')
+                wk.Worker(f'mkdir downloads/{name} && exit')
+                time.sleep(0.1)
+                wk.Worker(f'python3 download.py /home/piyush/Desktop/Manual_scrape/downloads/{name} {link}')
+            except Exception as e:
+                # Handle other exceptions here
+                print(f"Error: {e}")
+                break
+    def linkLoad(self):
+        for obj in self.data['items']:
+            self.links.append(obj['permalink'])
+            print(f'{len(self.links)} loaded successfully')
+

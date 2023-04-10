@@ -7,6 +7,8 @@ chunk_size = 100 #mbs
 # --split=8 and --min-split-size=100M are options that control the size of the individual chunks of the file that are downloaded simultaneously. In this case, we're using 8 chunks of at least 100 MB each.
 # --dir=/path/to/download/location is an option that specifies the directory where the downloaded file should be saved.
 # "http://example.com/file.zip" is the URL of the file to be downloaded.
-
-def load(path):
+try:
     wk.Worker('aria2c -x8 -s8 -j8 --split=8 --min-split-size=100M ' + f'--dir='+ sys.argv[1] + ' ' + sys.argv[2])
+except Exception as e:
+    # Handle other exceptions here
+    print(f"Error: {e}")

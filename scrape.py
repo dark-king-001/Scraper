@@ -22,4 +22,5 @@ class scraper:
                 # Handle other exceptions here
                 print(f"Error: {e}")
                 break
-lol = scraper()
+main = scraper()
+main.download()

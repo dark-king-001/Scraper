@@ -5,17 +5,12 @@ import requests
 
 f = open('permalink/permalink.json')
 data = json.load(f)
-print(data[0][8::1])
-# with open("downloads/1/index.html") as f:
-#     soup = BeautifulSoup(f, 'html.parser')
-#     para = []
-#     for text in soup.find_all('p'):
-#         para.append(text.get_text())
+print(data['links'][0][8::1])
 
 # Open the txt file in append mode
-with open("dataset/reverend-insanity.txt", "a") as f:
+with open("dataset/studyhelpinghand.txt", "a") as f:
     # Read the HTML file and parse it with BeautifulSoup
-    for link in data:
+    for link in data['links']:
         path = link[8::1]
         try:
             with open(f"downloads/{path}/index.html") as html_file:
@@ -24,6 +19,8 @@ with open("dataset/reverend-insanity.txt", "a") as f:
                 # Extract the links from the HTML and store them in a list
                 lines = []
                 for line in soup.find_all('p'):
+                    lines.append(line.get_text())
+                for line in soup.find_all('li'):
                     lines.append(line.get_text())
                 
                 # Loop through the list of links and write each link to the txt file

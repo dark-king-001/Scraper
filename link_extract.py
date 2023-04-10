@@ -23,4 +23,4 @@ except Exception as e:
     # Handle other exceptions here
     print(f"Error: {e}")
 with open(output_file, "w") as f:
-    json.dump(links, f)
+    json.dump({"links":links}, f)

@@ -1,7 +1,8 @@
 import json
+import sys
 
 input_files = [
-    'permalink/files/studyhelpinghand.txt',
+    sys.argv[1]
 ]
 output_file = 'permalink/permalink.json'
 
@@ -36,5 +37,9 @@ def fromTXT():
 def save(links):
     with open(output_file, "w") as f:
         json.dump({"links":links}, f)
-
-save(fromTXT())
+if sys.argv[2] == 'json':
+    save(fromJson())
+elif sys.argv[2] == 'txt':
+    save(fromTXT())
+else:
+    print('link extraction not available on the format')
